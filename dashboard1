@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Tableau Dashboards</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      margin-bottom: 10px;
+    }
+    h2 {
+      margin-top: 50px;
+      margin-bottom: 10px;
+    }
+    .tableauPlaceholder {
+      width: 100%;
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Tableau Dashboards</h1>
+  <p>This page hosts my Tableau dashboards on GitHub Pages.</p>
+
+  <h2>Category Revenue Distribution by Month</h2>
+  <div class='tableauPlaceholder' id='viz1' style='position: relative'>
+    <noscript>
+      <a href='#'>
+        <img alt='Category Revenue Distribution by Month'
+             src='https://public.tableau.com/static/images/Re/RevenueTrendsandCategoryPerformanceDashboard/CategoryRevenueDistributionbyMonth/1_rss.png'
+             style='border: none' />
+      </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='RevenueTrendsandCategoryPerformanceDashboard/CategoryRevenueDistributionbyMonth' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https://public.tableau.com/static/images/Re/RevenueTrendsandCategoryPerformanceDashboard/CategoryRevenueDistributionbyMonth/1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-GB' />
+    </object>
+  </div>
+
+  <h2>Category Leaderboard (Top 10)</h2>
+  <div class='tableauPlaceholder' id='viz2' style='position: relative'>
+    <noscript>
+      <a href='#'>
+        <img alt='Category leaderboard (top 10)'
+             src='https://public.tableau.com/static/images/Re/RevenueTrendsandCategoryPerformanceDashboard/Categoryleaderboardtop10/1_rss.png'
+             style='border: none' />
+      </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='RevenueTrendsandCategoryPerformanceDashboard/Categoryleaderboardtop10' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https://public.tableau.com/static/images/Re/RevenueTrendsandCategoryPerformanceDashboard/Categoryleaderboardtop10/1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-GB' />
+    </object>
+  </div>
+
+  <h2>Monthly Trend</h2>
+  <div class='tableauPlaceholder' id='viz3' style='position: relative'>
+    <noscript>
+      <a href='#'>
+        <img alt='Monthly Trend'
+             src='https://public.tableau.com/static/images/ZY/ZY49532BB/1_rss.png'
+             style='border: none' />
+      </a>
+    </noscript>
+    <object class='tableauViz' style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='path' value='shared/ZY49532BB' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https://public.tableau.com/static/images/ZY/ZY49532BB/1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-GB' />
+    </object>
+  </div>
+
+  <script type='text/javascript' src='https://public.tableau.com/javascripts/api/viz_v1.js'></script>
+  <script type='text/javascript'>
+    var vizElements = document.getElementsByClassName('tableauViz');
+    for (var i = 0; i < vizElements.length; i++) {
+      vizElements[i].style.width = '100%';
+      vizElements[i].style.height = '800px';
+    }
+  </script>
+</body>
+</html>
