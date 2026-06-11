@@ -39,7 +39,7 @@ This project explores how different product categories perform in an e‑commerc
 - **Jupyter Notebook**: reproducible analytical workflow  
 - **Tableau Public**: interactive dashboard for exploring category KPIs  
 - **GitHub / GitHub Pages**: version control and project presentation
-
+**Tech Stack:** Python, Jupyter Notebook, PosteSQL/BigQuery, Tableau.
 ## How to Use This Repository
 
 1. Clone the repository.  
