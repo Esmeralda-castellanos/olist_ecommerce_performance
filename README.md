@@ -33,6 +33,13 @@ This project explores how different product categories perform in an e‑commerc
 - How do price, delivery time, and freight cost relate to performance?  
 - Which categories show the best potential for margin improvement or customer experience gains?
 
+** Business Questions answered: **
+- The business shows a **clear positive long-term trend**, indicating sustained demand or effective commercial expansion.
+- The steepest growth appears around **2017-10 to 2017-11**, where revenue jumps sharply compared with prior months.
+- After crossing the **€1M** level in early 2018, revenue remains elevated, which suggests the company has entered a stronger operating baseline.
+- There is a noticeable **peak around 2017-11** at roughly **€1.18M**, followed by a dip in **2017-12**, then recovery in early 2018.
+- The monthly pattern in 2018 is not perfectly smooth, but it is **consistently high**, showing resilience rather than volatility at low levels.
+
 ## Tools and Technologies
 
 - **Python**: pandas, matplotlib/seaborn (or similar) for analysis and plots  
